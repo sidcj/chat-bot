@@ -14,26 +14,6 @@ Stores embeddings in a FAISS vector database for quick access.
 
 Provides a Flask REST API to handle user queries.
 
-#🛠 Installation & Setup
-
-🔹 Prerequisites
-
-Make sure you have:
-
-Python 3.8+ installed
-
-pip installed
-
-A working internet connection
-
-🔹 Clone the Repository
-
-git clone https://github.com/yourusername/brainlox-chatbot.git
-cd brainlox-chatbot
-
-🔹 Install Dependencies
-
-pip install -r requirements.txt
 
 #🚀 Running the Chatbot
 
